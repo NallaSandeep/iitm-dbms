@@ -1,0 +1,1 @@
+select bc.title from book_authors AS ba, book_catalogue AS bc where ba.isbn_no=bc.isbn_no and author_fname='Joh Paul' and author_lname='Mueller'
