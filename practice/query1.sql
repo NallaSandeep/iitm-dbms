@@ -1,0 +1,1 @@
+select author_fname,author_lname from book_authors where author_fname like '_'

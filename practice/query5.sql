@@ -1,0 +1,1 @@
+select count(*),department_code from students where gender='F' group by department_code

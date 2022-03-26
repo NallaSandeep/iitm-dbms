@@ -1,0 +1,1 @@
+select count(member_no) as total_member from members where member_type='UG'
